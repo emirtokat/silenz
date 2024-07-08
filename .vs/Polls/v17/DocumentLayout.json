@@ -1,0 +1,1282 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Alican\\source\\repos\\Polls\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{158DC184-61BF-44CA-AE01-9AEBA9613C34}|Src\\Core\\Domain\\Domain.csproj|c:\\users\\alican\\source\\repos\\polls\\src\\core\\domain\\entities\\useranswer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{158DC184-61BF-44CA-AE01-9AEBA9613C34}|Src\\Core\\Domain\\Domain.csproj|solutionrelative:src\\core\\domain\\entities\\useranswer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{158DC184-61BF-44CA-AE01-9AEBA9613C34}|Src\\Core\\Domain\\Domain.csproj|C:\\Users\\Alican\\source\\repos\\Polls\\src\\core\\domain\\entities\\answer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{158DC184-61BF-44CA-AE01-9AEBA9613C34}|Src\\Core\\Domain\\Domain.csproj|solutionrelative:src\\core\\domain\\entities\\answer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EB6C82F-6104-4BC4-9D32-D815A192AD33}|Src\\Core\\Application\\Application.csproj|C:\\Users\\Alican\\source\\repos\\Polls\\src\\core\\application\\features\\users\\createaccesstokenbyrefreshtoken\\createaccesstokenbyrefreshtokenresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EB6C82F-6104-4BC4-9D32-D815A192AD33}|Src\\Core\\Application\\Application.csproj|solutionrelative:src\\core\\application\\features\\users\\createaccesstokenbyrefreshtoken\\createaccesstokenbyrefreshtokenresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EB6C82F-6104-4BC4-9D32-D815A192AD33}|Src\\Core\\Application\\Application.csproj|C:\\Users\\Alican\\source\\repos\\Polls\\src\\core\\application\\features\\users\\createaccesstokenbyrefreshtoken\\createaccesstokenbyrefreshtokenhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EB6C82F-6104-4BC4-9D32-D815A192AD33}|Src\\Core\\Application\\Application.csproj|solutionrelative:src\\core\\application\\features\\users\\createaccesstokenbyrefreshtoken\\createaccesstokenbyrefreshtokenhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EB6C82F-6104-4BC4-9D32-D815A192AD33}|Src\\Core\\Application\\Application.csproj|C:\\Users\\Alican\\source\\repos\\Polls\\src\\core\\application\\features\\users\\createaccesstokenbyrefreshtoken\\createaccesstokenbyrefreshtokenrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EB6C82F-6104-4BC4-9D32-D815A192AD33}|Src\\Core\\Application\\Application.csproj|solutionrelative:src\\core\\application\\features\\users\\createaccesstokenbyrefreshtoken\\createaccesstokenbyrefreshtokenrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BE69B34-9863-45F9-B923-C4DA27DF3512}|Src\\Presentation\\WebAPI\\WebAPI.csproj|C:\\Users\\Alican\\source\\repos\\Polls\\src\\presentation\\webapi\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2BE69B34-9863-45F9-B923-C4DA27DF3512}|Src\\Presentation\\WebAPI\\WebAPI.csproj|solutionrelative:src\\presentation\\webapi\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BE69B34-9863-45F9-B923-C4DA27DF3512}|Src\\Presentation\\WebAPI\\WebAPI.csproj|C:\\Users\\Alican\\source\\repos\\Polls\\src\\presentation\\webapi\\controllers\\formscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2BE69B34-9863-45F9-B923-C4DA27DF3512}|Src\\Presentation\\WebAPI\\WebAPI.csproj|solutionrelative:src\\presentation\\webapi\\controllers\\formscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BE69B34-9863-45F9-B923-C4DA27DF3512}|Src\\Presentation\\WebAPI\\WebAPI.csproj|C:\\Users\\Alican\\source\\repos\\Polls\\src\\presentation\\webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2BE69B34-9863-45F9-B923-C4DA27DF3512}|Src\\Presentation\\WebAPI\\WebAPI.csproj|solutionrelative:src\\presentation\\webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EB6C82F-6104-4BC4-9D32-D815A192AD33}|Src\\Core\\Application\\Application.csproj|C:\\Users\\Alican\\source\\repos\\Polls\\src\\core\\application\\features\\users\\userregistercommand\\userregistercommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EB6C82F-6104-4BC4-9D32-D815A192AD33}|Src\\Core\\Application\\Application.csproj|solutionrelative:src\\core\\application\\features\\users\\userregistercommand\\userregistercommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EB6C82F-6104-4BC4-9D32-D815A192AD33}|Src\\Core\\Application\\Application.csproj|C:\\Users\\Alican\\source\\repos\\Polls\\src\\core\\application\\features\\users\\userregistercommand\\userregistercommandrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EB6C82F-6104-4BC4-9D32-D815A192AD33}|Src\\Core\\Application\\Application.csproj|solutionrelative:src\\core\\application\\features\\users\\userregistercommand\\userregistercommandrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EB6C82F-6104-4BC4-9D32-D815A192AD33}|Src\\Core\\Application\\Application.csproj|C:\\Users\\Alican\\source\\repos\\Polls\\src\\core\\application\\behaviours\\authorizationbehavior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EB6C82F-6104-4BC4-9D32-D815A192AD33}|Src\\Core\\Application\\Application.csproj|solutionrelative:src\\core\\application\\behaviours\\authorizationbehavior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EB6C82F-6104-4BC4-9D32-D815A192AD33}|Src\\Core\\Application\\Application.csproj|C:\\Users\\Alican\\source\\repos\\Polls\\src\\core\\application\\features\\formquestions\\createformcommandrequesthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EB6C82F-6104-4BC4-9D32-D815A192AD33}|Src\\Core\\Application\\Application.csproj|solutionrelative:src\\core\\application\\features\\formquestions\\createformcommandrequesthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EB6C82F-6104-4BC4-9D32-D815A192AD33}|Src\\Core\\Application\\Application.csproj|C:\\Users\\Alican\\source\\repos\\Polls\\src\\core\\application\\features\\formquestions\\createformquestioncommandrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EB6C82F-6104-4BC4-9D32-D815A192AD33}|Src\\Core\\Application\\Application.csproj|solutionrelative:src\\core\\application\\features\\formquestions\\createformquestioncommandrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3728579-98DB-4C85-9C89-3FC0B0BF4C1F}|Src\\Infrastructure\\Persistence\\Persistence.csproj|C:\\Users\\Alican\\source\\repos\\Polls\\src\\infrastructure\\persistence\\repositories\\useroperationclaimrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3728579-98DB-4C85-9C89-3FC0B0BF4C1F}|Src\\Infrastructure\\Persistence\\Persistence.csproj|solutionrelative:src\\infrastructure\\persistence\\repositories\\useroperationclaimrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3728579-98DB-4C85-9C89-3FC0B0BF4C1F}|Src\\Infrastructure\\Persistence\\Persistence.csproj|C:\\Users\\Alican\\source\\repos\\Polls\\src\\infrastructure\\persistence\\serviceregistiration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3728579-98DB-4C85-9C89-3FC0B0BF4C1F}|Src\\Infrastructure\\Persistence\\Persistence.csproj|solutionrelative:src\\infrastructure\\persistence\\serviceregistiration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EB6C82F-6104-4BC4-9D32-D815A192AD33}|Src\\Core\\Application\\Application.csproj|C:\\Users\\Alican\\source\\repos\\Polls\\src\\core\\application\\interfaces\\iuseroperationclaimrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EB6C82F-6104-4BC4-9D32-D815A192AD33}|Src\\Core\\Application\\Application.csproj|solutionrelative:src\\core\\application\\interfaces\\iuseroperationclaimrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EB6C82F-6104-4BC4-9D32-D815A192AD33}|Src\\Core\\Application\\Application.csproj|C:\\Users\\Alican\\source\\repos\\Polls\\src\\core\\application\\features\\users\\userlogincommand\\userlogincommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EB6C82F-6104-4BC4-9D32-D815A192AD33}|Src\\Core\\Application\\Application.csproj|solutionrelative:src\\core\\application\\features\\users\\userlogincommand\\userlogincommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EB6C82F-6104-4BC4-9D32-D815A192AD33}|Src\\Core\\Application\\Application.csproj|C:\\Users\\Alican\\source\\repos\\Polls\\src\\core\\application\\features\\users\\userlogincommand\\userlogincommandrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EB6C82F-6104-4BC4-9D32-D815A192AD33}|Src\\Core\\Application\\Application.csproj|solutionrelative:src\\core\\application\\features\\users\\userlogincommand\\userlogincommandrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03FC179E-1BEF-420D-AFC2-B49E7498B7C7}|Src\\corePackages\\Core.Security\\Core.Security.csproj|C:\\Users\\Alican\\source\\repos\\Polls\\src\\corepackages\\core.security\\entities\\useroperationclaim.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03FC179E-1BEF-420D-AFC2-B49E7498B7C7}|Src\\corePackages\\Core.Security\\Core.Security.csproj|solutionrelative:src\\corepackages\\core.security\\entities\\useroperationclaim.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EB6C82F-6104-4BC4-9D32-D815A192AD33}|Src\\Core\\Application\\Application.csproj|C:\\Users\\Alican\\source\\repos\\Polls\\src\\core\\application\\features\\forms\\commands\\request\\createformcommandrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EB6C82F-6104-4BC4-9D32-D815A192AD33}|Src\\Core\\Application\\Application.csproj|solutionrelative:src\\core\\application\\features\\forms\\commands\\request\\createformcommandrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EB6C82F-6104-4BC4-9D32-D815A192AD33}|Src\\Core\\Application\\Application.csproj|C:\\Users\\Alican\\source\\repos\\Polls\\src\\core\\application\\features\\questionoptions\\createformquestioncommandrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EB6C82F-6104-4BC4-9D32-D815A192AD33}|Src\\Core\\Application\\Application.csproj|solutionrelative:src\\core\\application\\features\\questionoptions\\createformquestioncommandrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0197101-6DE0-4208-81BF-FAB7A1C6A5E1}|Src\\corePackages\\Core.Application\\Core.Application.csproj|C:\\Users\\Alican\\source\\repos\\Polls\\src\\corepackages\\core.application\\pipelines\\authorization\\authorizationbehavior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0197101-6DE0-4208-81BF-FAB7A1C6A5E1}|Src\\corePackages\\Core.Application\\Core.Application.csproj|solutionrelative:src\\corepackages\\core.application\\pipelines\\authorization\\authorizationbehavior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EB6C82F-6104-4BC4-9D32-D815A192AD33}|Src\\Core\\Application\\Application.csproj|C:\\Users\\Alican\\source\\repos\\Polls\\src\\core\\application\\serviceextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EB6C82F-6104-4BC4-9D32-D815A192AD33}|Src\\Core\\Application\\Application.csproj|solutionrelative:src\\core\\application\\serviceextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{158DC184-61BF-44CA-AE01-9AEBA9613C34}|Src\\Core\\Domain\\Domain.csproj|C:\\Users\\Alican\\source\\repos\\Polls\\src\\core\\domain\\domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{158DC184-61BF-44CA-AE01-9AEBA9613C34}|Src\\Core\\Domain\\Domain.csproj|solutionrelative:src\\core\\domain\\domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0197101-6DE0-4208-81BF-FAB7A1C6A5E1}|Src\\corePackages\\Core.Application\\Core.Application.csproj|C:\\Users\\Alican\\source\\repos\\Polls\\src\\corepackages\\core.application\\pipelines\\authorization\\isecuredrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0197101-6DE0-4208-81BF-FAB7A1C6A5E1}|Src\\corePackages\\Core.Application\\Core.Application.csproj|solutionrelative:src\\corepackages\\core.application\\pipelines\\authorization\\isecuredrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EB6C82F-6104-4BC4-9D32-D815A192AD33}|Src\\Core\\Application\\Application.csproj|C:\\Users\\Alican\\source\\repos\\Polls\\src\\core\\application\\behaviours\\validationbehavior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EB6C82F-6104-4BC4-9D32-D815A192AD33}|Src\\Core\\Application\\Application.csproj|solutionrelative:src\\core\\application\\behaviours\\validationbehavior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EB6C82F-6104-4BC4-9D32-D815A192AD33}|Src\\Core\\Application\\Application.csproj|C:\\Users\\Alican\\source\\repos\\Polls\\src\\core\\application\\behaviours\\isecuredrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EB6C82F-6104-4BC4-9D32-D815A192AD33}|Src\\Core\\Application\\Application.csproj|solutionrelative:src\\core\\application\\behaviours\\isecuredrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EB6C82F-6104-4BC4-9D32-D815A192AD33}|Src\\Core\\Application\\Application.csproj|C:\\Users\\Alican\\source\\repos\\Polls\\src\\core\\application\\application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{4EB6C82F-6104-4BC4-9D32-D815A192AD33}|Src\\Core\\Application\\Application.csproj|solutionrelative:src\\core\\application\\application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BE69B34-9863-45F9-B923-C4DA27DF3512}|Src\\Presentation\\WebAPI\\WebAPI.csproj|C:\\Users\\Alican\\source\\repos\\Polls\\src\\presentation\\webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2BE69B34-9863-45F9-B923-C4DA27DF3512}|Src\\Presentation\\WebAPI\\WebAPI.csproj|solutionrelative:src\\presentation\\webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EB6C82F-6104-4BC4-9D32-D815A192AD33}|Src\\Core\\Application\\Application.csproj|C:\\Users\\Alican\\source\\repos\\Polls\\src\\core\\application\\exceptions\\validationexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EB6C82F-6104-4BC4-9D32-D815A192AD33}|Src\\Core\\Application\\Application.csproj|solutionrelative:src\\core\\application\\exceptions\\validationexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EB6C82F-6104-4BC4-9D32-D815A192AD33}|Src\\Core\\Application\\Application.csproj|C:\\Users\\Alican\\source\\repos\\Polls\\src\\core\\application\\features\\formquestions\\createformquestioncommandresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EB6C82F-6104-4BC4-9D32-D815A192AD33}|Src\\Core\\Application\\Application.csproj|solutionrelative:src\\core\\application\\features\\formquestions\\createformquestioncommandresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EB6C82F-6104-4BC4-9D32-D815A192AD33}|Src\\Core\\Application\\Application.csproj|C:\\Users\\Alican\\source\\repos\\Polls\\src\\core\\application\\features\\forms\\handlers\\getformbyidqueryrequesthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EB6C82F-6104-4BC4-9D32-D815A192AD33}|Src\\Core\\Application\\Application.csproj|solutionrelative:src\\core\\application\\features\\forms\\handlers\\getformbyidqueryrequesthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03FC179E-1BEF-420D-AFC2-B49E7498B7C7}|Src\\corePackages\\Core.Security\\Core.Security.csproj|C:\\Users\\Alican\\source\\repos\\Polls\\src\\corepackages\\core.security\\jwt\\jwthelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03FC179E-1BEF-420D-AFC2-B49E7498B7C7}|Src\\corePackages\\Core.Security\\Core.Security.csproj|solutionrelative:src\\corepackages\\core.security\\jwt\\jwthelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0197101-6DE0-4208-81BF-FAB7A1C6A5E1}|Src\\corePackages\\Core.Application\\Core.Application.csproj|C:\\Users\\Alican\\source\\repos\\Polls\\src\\corepackages\\core.application\\pipelines\\validation\\requestvalidationbehavior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0197101-6DE0-4208-81BF-FAB7A1C6A5E1}|Src\\corePackages\\Core.Application\\Core.Application.csproj|solutionrelative:src\\corepackages\\core.application\\pipelines\\validation\\requestvalidationbehavior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EB6C82F-6104-4BC4-9D32-D815A192AD33}|Src\\Core\\Application\\Application.csproj|C:\\Users\\Alican\\source\\repos\\Polls\\src\\core\\application\\features\\forms\\handlers\\getalloperatorsqueryrequesthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EB6C82F-6104-4BC4-9D32-D815A192AD33}|Src\\Core\\Application\\Application.csproj|solutionrelative:src\\core\\application\\features\\forms\\handlers\\getalloperatorsqueryrequesthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EB6C82F-6104-4BC4-9D32-D815A192AD33}|Src\\Core\\Application\\Application.csproj|C:\\Users\\Alican\\source\\repos\\Polls\\src\\core\\application\\features\\questionoptions\\createquestionoptcommandresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EB6C82F-6104-4BC4-9D32-D815A192AD33}|Src\\Core\\Application\\Application.csproj|solutionrelative:src\\core\\application\\features\\questionoptions\\createquestionoptcommandresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EB6C82F-6104-4BC4-9D32-D815A192AD33}|Src\\Core\\Application\\Application.csproj|C:\\Users\\Alican\\source\\repos\\Polls\\src\\core\\application\\features\\users\\userregistercommand\\userregistercommandresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EB6C82F-6104-4BC4-9D32-D815A192AD33}|Src\\Core\\Application\\Application.csproj|solutionrelative:src\\core\\application\\features\\users\\userregistercommand\\userregistercommandresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03FC179E-1BEF-420D-AFC2-B49E7498B7C7}|Src\\corePackages\\Core.Security\\Core.Security.csproj|C:\\Users\\Alican\\source\\repos\\Polls\\src\\corepackages\\core.security\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03FC179E-1BEF-420D-AFC2-B49E7498B7C7}|Src\\corePackages\\Core.Security\\Core.Security.csproj|solutionrelative:src\\corepackages\\core.security\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3728579-98DB-4C85-9C89-3FC0B0BF4C1F}|Src\\Infrastructure\\Persistence\\Persistence.csproj|C:\\Users\\Alican\\source\\repos\\Polls\\src\\infrastructure\\persistence\\repositories\\readrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3728579-98DB-4C85-9C89-3FC0B0BF4C1F}|Src\\Infrastructure\\Persistence\\Persistence.csproj|solutionrelative:src\\infrastructure\\persistence\\repositories\\readrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3728579-98DB-4C85-9C89-3FC0B0BF4C1F}|Src\\Infrastructure\\Persistence\\Persistence.csproj|C:\\Users\\Alican\\source\\repos\\Polls\\src\\infrastructure\\persistence\\repositories\\baserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3728579-98DB-4C85-9C89-3FC0B0BF4C1F}|Src\\Infrastructure\\Persistence\\Persistence.csproj|solutionrelative:src\\infrastructure\\persistence\\repositories\\baserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3728579-98DB-4C85-9C89-3FC0B0BF4C1F}|Src\\Infrastructure\\Persistence\\Persistence.csproj|C:\\Users\\Alican\\source\\repos\\Polls\\src\\infrastructure\\persistence\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3728579-98DB-4C85-9C89-3FC0B0BF4C1F}|Src\\Infrastructure\\Persistence\\Persistence.csproj|solutionrelative:src\\infrastructure\\persistence\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EB6C82F-6104-4BC4-9D32-D815A192AD33}|Src\\Core\\Application\\Application.csproj|C:\\Users\\Alican\\source\\repos\\Polls\\src\\core\\application\\interfaces\\ientityrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EB6C82F-6104-4BC4-9D32-D815A192AD33}|Src\\Core\\Application\\Application.csproj|solutionrelative:src\\core\\application\\interfaces\\ientityrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3728579-98DB-4C85-9C89-3FC0B0BF4C1F}|Src\\Infrastructure\\Persistence\\Persistence.csproj|C:\\Users\\Alican\\source\\repos\\Polls\\src\\infrastructure\\persistence\\repositories\\useranswerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3728579-98DB-4C85-9C89-3FC0B0BF4C1F}|Src\\Infrastructure\\Persistence\\Persistence.csproj|solutionrelative:src\\infrastructure\\persistence\\repositories\\useranswerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EB6C82F-6104-4BC4-9D32-D815A192AD33}|Src\\Core\\Application\\Application.csproj|C:\\Users\\Alican\\source\\repos\\Polls\\src\\core\\application\\interfaces\\ientityreadrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EB6C82F-6104-4BC4-9D32-D815A192AD33}|Src\\Core\\Application\\Application.csproj|solutionrelative:src\\core\\application\\interfaces\\ientityreadrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EB6C82F-6104-4BC4-9D32-D815A192AD33}|Src\\Core\\Application\\Application.csproj|C:\\Users\\Alican\\source\\repos\\Polls\\src\\core\\application\\interfaces\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EB6C82F-6104-4BC4-9D32-D815A192AD33}|Src\\Core\\Application\\Application.csproj|solutionrelative:src\\core\\application\\interfaces\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EB6C82F-6104-4BC4-9D32-D815A192AD33}|Src\\Core\\Application\\Application.csproj|C:\\Users\\Alican\\source\\repos\\Polls\\src\\core\\application\\features\\forms\\queries\\response\\getformbyidqueryresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EB6C82F-6104-4BC4-9D32-D815A192AD33}|Src\\Core\\Application\\Application.csproj|solutionrelative:src\\core\\application\\features\\forms\\queries\\response\\getformbyidqueryresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EB6C82F-6104-4BC4-9D32-D815A192AD33}|Src\\Core\\Application\\Application.csproj|C:\\Users\\Alican\\source\\repos\\Polls\\src\\core\\application\\features\\forms\\queries\\request\\getformbyidqueryrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EB6C82F-6104-4BC4-9D32-D815A192AD33}|Src\\Core\\Application\\Application.csproj|solutionrelative:src\\core\\application\\features\\forms\\queries\\request\\getformbyidqueryrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{158DC184-61BF-44CA-AE01-9AEBA9613C34}|Src\\Core\\Domain\\Domain.csproj|C:\\Users\\Alican\\source\\repos\\Polls\\src\\core\\domain\\entities\\operator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{158DC184-61BF-44CA-AE01-9AEBA9613C34}|Src\\Core\\Domain\\Domain.csproj|solutionrelative:src\\core\\domain\\entities\\operator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EB6C82F-6104-4BC4-9D32-D815A192AD33}|Src\\Core\\Application\\Application.csproj|C:\\Users\\Alican\\source\\repos\\Polls\\src\\core\\application\\features\\forms\\handlers\\getoperatorbyidqueryrequesthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EB6C82F-6104-4BC4-9D32-D815A192AD33}|Src\\Core\\Application\\Application.csproj|solutionrelative:src\\core\\application\\features\\forms\\handlers\\getoperatorbyidqueryrequesthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3728579-98DB-4C85-9C89-3FC0B0BF4C1F}|Src\\Infrastructure\\Persistence\\Persistence.csproj|C:\\Users\\Alican\\source\\repos\\Polls\\src\\infrastructure\\persistence\\repositories\\formrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3728579-98DB-4C85-9C89-3FC0B0BF4C1F}|Src\\Infrastructure\\Persistence\\Persistence.csproj|solutionrelative:src\\infrastructure\\persistence\\repositories\\formrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{158DC184-61BF-44CA-AE01-9AEBA9613C34}|Src\\Core\\Domain\\Domain.csproj|C:\\Users\\Alican\\source\\repos\\Polls\\src\\core\\domain\\entities\\form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{158DC184-61BF-44CA-AE01-9AEBA9613C34}|Src\\Core\\Domain\\Domain.csproj|solutionrelative:src\\core\\domain\\entities\\form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EB6C82F-6104-4BC4-9D32-D815A192AD33}|Src\\Core\\Application\\Application.csproj|C:\\Users\\Alican\\source\\repos\\Polls\\src\\core\\application\\features\\questionoptions\\createformcommandrequesthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EB6C82F-6104-4BC4-9D32-D815A192AD33}|Src\\Core\\Application\\Application.csproj|solutionrelative:src\\core\\application\\features\\questionoptions\\createformcommandrequesthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EB6C82F-6104-4BC4-9D32-D815A192AD33}|Src\\Core\\Application\\Application.csproj|C:\\Users\\Alican\\source\\repos\\Polls\\src\\core\\application\\features\\dtos\\createformdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EB6C82F-6104-4BC4-9D32-D815A192AD33}|Src\\Core\\Application\\Application.csproj|solutionrelative:src\\core\\application\\features\\dtos\\createformdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EB6C82F-6104-4BC4-9D32-D815A192AD33}|Src\\Core\\Application\\Application.csproj|C:\\Users\\Alican\\source\\repos\\Polls\\src\\core\\application\\features\\dtos\\formquestionsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EB6C82F-6104-4BC4-9D32-D815A192AD33}|Src\\Core\\Application\\Application.csproj|solutionrelative:src\\core\\application\\features\\dtos\\formquestionsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EB6C82F-6104-4BC4-9D32-D815A192AD33}|Src\\Core\\Application\\Application.csproj|C:\\Users\\Alican\\source\\repos\\Polls\\src\\core\\application\\features\\dtos\\questionoptionsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EB6C82F-6104-4BC4-9D32-D815A192AD33}|Src\\Core\\Application\\Application.csproj|solutionrelative:src\\core\\application\\features\\dtos\\questionoptionsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EB6C82F-6104-4BC4-9D32-D815A192AD33}|Src\\Core\\Application\\Application.csproj|C:\\Users\\Alican\\source\\repos\\Polls\\src\\core\\application\\features\\dtos\\getformdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EB6C82F-6104-4BC4-9D32-D815A192AD33}|Src\\Core\\Application\\Application.csproj|solutionrelative:src\\core\\application\\features\\dtos\\getformdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EB6C82F-6104-4BC4-9D32-D815A192AD33}|Src\\Core\\Application\\Application.csproj|C:\\Users\\Alican\\source\\repos\\Polls\\src\\core\\application\\features\\forms\\commands\\response\\createformcommandresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EB6C82F-6104-4BC4-9D32-D815A192AD33}|Src\\Core\\Application\\Application.csproj|solutionrelative:src\\core\\application\\features\\forms\\commands\\response\\createformcommandresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{158DC184-61BF-44CA-AE01-9AEBA9613C34}|Src\\Core\\Domain\\Domain.csproj|C:\\Users\\Alican\\source\\repos\\Polls\\src\\core\\domain\\entities\\question.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{158DC184-61BF-44CA-AE01-9AEBA9613C34}|Src\\Core\\Domain\\Domain.csproj|solutionrelative:src\\core\\domain\\entities\\question.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EB6C82F-6104-4BC4-9D32-D815A192AD33}|Src\\Core\\Application\\Application.csproj|C:\\Users\\Alican\\source\\repos\\Polls\\src\\core\\application\\features\\forms\\handlers\\createformcommandrequesthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EB6C82F-6104-4BC4-9D32-D815A192AD33}|Src\\Core\\Application\\Application.csproj|solutionrelative:src\\core\\application\\features\\forms\\handlers\\createformcommandrequesthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BE69B34-9863-45F9-B923-C4DA27DF3512}|Src\\Presentation\\WebAPI\\WebAPI.csproj|C:\\Users\\Alican\\source\\repos\\Polls\\src\\presentation\\webapi\\controllers\\operatorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2BE69B34-9863-45F9-B923-C4DA27DF3512}|Src\\Presentation\\WebAPI\\WebAPI.csproj|solutionrelative:src\\presentation\\webapi\\controllers\\operatorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EB6C82F-6104-4BC4-9D32-D815A192AD33}|Src\\Core\\Application\\Application.csproj|C:\\Users\\Alican\\source\\repos\\Polls\\src\\core\\application\\features\\forms\\queries\\request\\getallformsqueryrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EB6C82F-6104-4BC4-9D32-D815A192AD33}|Src\\Core\\Application\\Application.csproj|solutionrelative:src\\core\\application\\features\\forms\\queries\\request\\getallformsqueryrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EB6C82F-6104-4BC4-9D32-D815A192AD33}|Src\\Core\\Application\\Application.csproj|C:\\Users\\Alican\\source\\repos\\Polls\\src\\core\\application\\features\\forms\\queries\\request\\getalloperatorsqueryrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EB6C82F-6104-4BC4-9D32-D815A192AD33}|Src\\Core\\Application\\Application.csproj|solutionrelative:src\\core\\application\\features\\forms\\queries\\request\\getalloperatorsqueryrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EB6C82F-6104-4BC4-9D32-D815A192AD33}|Src\\Core\\Application\\Application.csproj|C:\\Users\\Alican\\source\\repos\\Polls\\src\\core\\application\\features\\forms\\handlers\\getallformsqueryrequesthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EB6C82F-6104-4BC4-9D32-D815A192AD33}|Src\\Core\\Application\\Application.csproj|solutionrelative:src\\core\\application\\features\\forms\\handlers\\getallformsqueryrequesthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EB6C82F-6104-4BC4-9D32-D815A192AD33}|Src\\Core\\Application\\Application.csproj|C:\\Users\\Alican\\source\\repos\\Polls\\src\\core\\application\\features\\forms\\queries\\response\\getallformsqueryresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EB6C82F-6104-4BC4-9D32-D815A192AD33}|Src\\Core\\Application\\Application.csproj|solutionrelative:src\\core\\application\\features\\forms\\queries\\response\\getallformsqueryresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{158DC184-61BF-44CA-AE01-9AEBA9613C34}|Src\\Core\\Domain\\Domain.csproj|C:\\Users\\Alican\\source\\repos\\Polls\\src\\core\\domain\\entities\\questionopt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{158DC184-61BF-44CA-AE01-9AEBA9613C34}|Src\\Core\\Domain\\Domain.csproj|solutionrelative:src\\core\\domain\\entities\\questionopt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3728579-98DB-4C85-9C89-3FC0B0BF4C1F}|Src\\Infrastructure\\Persistence\\Persistence.csproj|C:\\Users\\Alican\\source\\repos\\Polls\\src\\infrastructure\\persistence\\repositories\\operatorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3728579-98DB-4C85-9C89-3FC0B0BF4C1F}|Src\\Infrastructure\\Persistence\\Persistence.csproj|solutionrelative:src\\infrastructure\\persistence\\repositories\\operatorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3728579-98DB-4C85-9C89-3FC0B0BF4C1F}|Src\\Infrastructure\\Persistence\\Persistence.csproj|C:\\Users\\Alican\\source\\repos\\Polls\\src\\infrastructure\\persistence\\repositories\\questionoptrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3728579-98DB-4C85-9C89-3FC0B0BF4C1F}|Src\\Infrastructure\\Persistence\\Persistence.csproj|solutionrelative:src\\infrastructure\\persistence\\repositories\\questionoptrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EB6C82F-6104-4BC4-9D32-D815A192AD33}|Src\\Core\\Application\\Application.csproj|C:\\Users\\Alican\\source\\repos\\Polls\\src\\core\\application\\features\\users\\userlogincommand\\userlogincommandresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EB6C82F-6104-4BC4-9D32-D815A192AD33}|Src\\Core\\Application\\Application.csproj|solutionrelative:src\\core\\application\\features\\users\\userlogincommand\\userlogincommandresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3728579-98DB-4C85-9C89-3FC0B0BF4C1F}|Src\\Infrastructure\\Persistence\\Persistence.csproj|C:\\Users\\Alican\\source\\repos\\Polls\\src\\infrastructure\\persistence\\contexts\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3728579-98DB-4C85-9C89-3FC0B0BF4C1F}|Src\\Infrastructure\\Persistence\\Persistence.csproj|solutionrelative:src\\infrastructure\\persistence\\contexts\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03FC179E-1BEF-420D-AFC2-B49E7498B7C7}|Src\\corePackages\\Core.Security\\Core.Security.csproj|C:\\Users\\Alican\\source\\repos\\Polls\\src\\corepackages\\core.security\\encryption\\securitykeyhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03FC179E-1BEF-420D-AFC2-B49E7498B7C7}|Src\\corePackages\\Core.Security\\Core.Security.csproj|solutionrelative:src\\corepackages\\core.security\\encryption\\securitykeyhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03FC179E-1BEF-420D-AFC2-B49E7498B7C7}|Src\\corePackages\\Core.Security\\Core.Security.csproj|C:\\Users\\Alican\\source\\repos\\Polls\\src\\corepackages\\core.security\\encryption\\signingcredentialshelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03FC179E-1BEF-420D-AFC2-B49E7498B7C7}|Src\\corePackages\\Core.Security\\Core.Security.csproj|solutionrelative:src\\corepackages\\core.security\\encryption\\signingcredentialshelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03FC179E-1BEF-420D-AFC2-B49E7498B7C7}|Src\\corePackages\\Core.Security\\Core.Security.csproj|C:\\Users\\Alican\\source\\repos\\Polls\\src\\corepackages\\core.security\\jwt\\tokenoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03FC179E-1BEF-420D-AFC2-B49E7498B7C7}|Src\\corePackages\\Core.Security\\Core.Security.csproj|solutionrelative:src\\corepackages\\core.security\\jwt\\tokenoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EB6C82F-6104-4BC4-9D32-D815A192AD33}|Src\\Core\\Application\\Application.csproj|C:\\Users\\Alican\\source\\repos\\Polls\\src\\core\\application\\interfaces\\irefreshtokenrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EB6C82F-6104-4BC4-9D32-D815A192AD33}|Src\\Core\\Application\\Application.csproj|solutionrelative:src\\core\\application\\interfaces\\irefreshtokenrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{158DC184-61BF-44CA-AE01-9AEBA9613C34}|Src\\Core\\Domain\\Domain.csproj|C:\\Users\\Alican\\source\\repos\\Polls\\src\\core\\domain\\settings\\baseconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{158DC184-61BF-44CA-AE01-9AEBA9613C34}|Src\\Core\\Domain\\Domain.csproj|solutionrelative:src\\core\\domain\\settings\\baseconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CreateFormCommandRequestHandler.cs",
+              "DocumentMoniker": "C:\\Users\\Alican\\source\\repos\\Polls\\Src\\Core\\Application\\Features\\FormQuestions\\CreateFormCommandRequestHandler.cs",
+              "RelativeDocumentMoniker": "Src\\Core\\Application\\Features\\FormQuestions\\CreateFormCommandRequestHandler.cs",
+              "ToolTip": "C:\\Users\\Alican\\source\\repos\\Polls\\Src\\Core\\Application\\Features\\FormQuestions\\CreateFormCommandRequestHandler.cs",
+              "RelativeToolTip": "Src\\Core\\Application\\Features\\FormQuestions\\CreateFormCommandRequestHandler.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAB0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T17:10:38.597Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CreateAccessTokenByRefreshTokenRequest.cs",
+              "DocumentMoniker": "C:\\Users\\Alican\\source\\repos\\Polls\\Src\\Core\\Application\\Features\\Users\\CreateAccessTokenByRefreshToken\\CreateAccessTokenByRefreshTokenRequest.cs",
+              "RelativeDocumentMoniker": "Src\\Core\\Application\\Features\\Users\\CreateAccessTokenByRefreshToken\\CreateAccessTokenByRefreshTokenRequest.cs",
+              "ToolTip": "C:\\Users\\Alican\\source\\repos\\Polls\\Src\\Core\\Application\\Features\\Users\\CreateAccessTokenByRefreshToken\\CreateAccessTokenByRefreshTokenRequest.cs",
+              "RelativeToolTip": "Src\\Core\\Application\\Features\\Users\\CreateAccessTokenByRefreshToken\\CreateAccessTokenByRefreshTokenRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T15:56:57.223Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CreateAccessTokenByRefreshTokenResponse.cs",
+              "DocumentMoniker": "C:\\Users\\Alican\\source\\repos\\Polls\\Src\\Core\\Application\\Features\\Users\\CreateAccessTokenByRefreshToken\\CreateAccessTokenByRefreshTokenResponse.cs",
+              "RelativeDocumentMoniker": "Src\\Core\\Application\\Features\\Users\\CreateAccessTokenByRefreshToken\\CreateAccessTokenByRefreshTokenResponse.cs",
+              "ToolTip": "C:\\Users\\Alican\\source\\repos\\Polls\\Src\\Core\\Application\\Features\\Users\\CreateAccessTokenByRefreshToken\\CreateAccessTokenByRefreshTokenResponse.cs",
+              "RelativeToolTip": "Src\\Core\\Application\\Features\\Users\\CreateAccessTokenByRefreshToken\\CreateAccessTokenByRefreshTokenResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T09:43:28.62Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CreateAccessTokenByRefreshTokenHandler.cs",
+              "DocumentMoniker": "C:\\Users\\Alican\\source\\repos\\Polls\\Src\\Core\\Application\\Features\\Users\\CreateAccessTokenByRefreshToken\\CreateAccessTokenByRefreshTokenHandler.cs",
+              "RelativeDocumentMoniker": "Src\\Core\\Application\\Features\\Users\\CreateAccessTokenByRefreshToken\\CreateAccessTokenByRefreshTokenHandler.cs",
+              "ToolTip": "C:\\Users\\Alican\\source\\repos\\Polls\\Src\\Core\\Application\\Features\\Users\\CreateAccessTokenByRefreshToken\\CreateAccessTokenByRefreshTokenHandler.cs",
+              "RelativeToolTip": "Src\\Core\\Application\\Features\\Users\\CreateAccessTokenByRefreshToken\\CreateAccessTokenByRefreshTokenHandler.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAQwB0AAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T15:56:58.248Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Answer.cs",
+              "DocumentMoniker": "C:\\Users\\Alican\\source\\repos\\Polls\\Src\\Core\\Domain\\Entities\\Answer.cs",
+              "RelativeDocumentMoniker": "Src\\Core\\Domain\\Entities\\Answer.cs",
+              "ToolTip": "C:\\Users\\Alican\\source\\repos\\Polls\\Src\\Core\\Domain\\Entities\\Answer.cs",
+              "RelativeToolTip": "Src\\Core\\Domain\\Entities\\Answer.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAAABIAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-12-11T01:51:36.837Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserAnswer.cs",
+              "DocumentMoniker": "C:\\Users\\Alican\\source\\repos\\Polls\\Src\\Core\\Domain\\Entities\\UserAnswer.cs",
+              "RelativeDocumentMoniker": "Src\\Core\\Domain\\Entities\\UserAnswer.cs",
+              "ToolTip": "C:\\Users\\Alican\\source\\repos\\Polls\\Src\\Core\\Domain\\Entities\\UserAnswer.cs",
+              "RelativeToolTip": "Src\\Core\\Domain\\Entities\\UserAnswer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-12-11T08:26:31.977Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "CreateFormQuestionCommandRequest.cs",
+              "DocumentMoniker": "C:\\Users\\Alican\\source\\repos\\Polls\\Src\\Core\\Application\\Features\\FormQuestions\\CreateFormQuestionCommandRequest.cs",
+              "RelativeDocumentMoniker": "Src\\Core\\Application\\Features\\FormQuestions\\CreateFormQuestionCommandRequest.cs",
+              "ToolTip": "C:\\Users\\Alican\\source\\repos\\Polls\\Src\\Core\\Application\\Features\\FormQuestions\\CreateFormQuestionCommandRequest.cs",
+              "RelativeToolTip": "Src\\Core\\Application\\Features\\FormQuestions\\CreateFormQuestionCommandRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAABFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T17:08:37.689Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\Alican\\source\\repos\\Polls\\Src\\Presentation\\WebAPI\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "Src\\Presentation\\WebAPI\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\Alican\\source\\repos\\Polls\\Src\\Presentation\\WebAPI\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "Src\\Presentation\\WebAPI\\Controllers\\AuthController.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAAAB4AAABvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T16:10:13.734Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FormsController.cs",
+              "DocumentMoniker": "C:\\Users\\Alican\\source\\repos\\Polls\\Src\\Presentation\\WebAPI\\Controllers\\FormsController.cs",
+              "RelativeDocumentMoniker": "Src\\Presentation\\WebAPI\\Controllers\\FormsController.cs",
+              "ToolTip": "C:\\Users\\Alican\\source\\repos\\Polls\\Src\\Presentation\\WebAPI\\Controllers\\FormsController.cs",
+              "RelativeToolTip": "Src\\Presentation\\WebAPI\\Controllers\\FormsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACgAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T03:41:10.004Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Alican\\source\\repos\\Polls\\Src\\Presentation\\WebAPI\\Program.cs",
+              "RelativeDocumentMoniker": "Src\\Presentation\\WebAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\Alican\\source\\repos\\Polls\\Src\\Presentation\\WebAPI\\Program.cs",
+              "RelativeToolTip": "Src\\Presentation\\WebAPI\\Program.cs",
+              "ViewState": "AQIAACsAAAAAAAAAAAAvwEEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T04:21:07.626Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UserRegisterCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\Alican\\source\\repos\\Polls\\Src\\Core\\Application\\Features\\Users\\UserRegisterCommand\\UserRegisterCommandHandler.cs",
+              "RelativeDocumentMoniker": "Src\\Core\\Application\\Features\\Users\\UserRegisterCommand\\UserRegisterCommandHandler.cs",
+              "ToolTip": "C:\\Users\\Alican\\source\\repos\\Polls\\Src\\Core\\Application\\Features\\Users\\UserRegisterCommand\\UserRegisterCommandHandler.cs",
+              "RelativeToolTip": "Src\\Core\\Application\\Features\\Users\\UserRegisterCommand\\UserRegisterCommandHandler.cs",
+              "ViewState": "AQIAACYAAAAAAAAAAAD4vzYAAACIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T11:16:21.292Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "UserRegisterCommandRequest.cs",
+              "DocumentMoniker": "C:\\Users\\Alican\\source\\repos\\Polls\\Src\\Core\\Application\\Features\\Users\\UserRegisterCommand\\UserRegisterCommandRequest.cs",
+              "RelativeDocumentMoniker": "Src\\Core\\Application\\Features\\Users\\UserRegisterCommand\\UserRegisterCommandRequest.cs",
+              "ToolTip": "C:\\Users\\Alican\\source\\repos\\Polls\\Src\\Core\\Application\\Features\\Users\\UserRegisterCommand\\UserRegisterCommandRequest.cs",
+              "RelativeToolTip": "Src\\Core\\Application\\Features\\Users\\UserRegisterCommand\\UserRegisterCommandRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAwAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T11:14:24.02Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AuthorizationBehavior.cs",
+              "DocumentMoniker": "C:\\Users\\Alican\\source\\repos\\Polls\\Src\\Core\\Application\\Behaviours\\AuthorizationBehavior.cs",
+              "RelativeDocumentMoniker": "Src\\Core\\Application\\Behaviours\\AuthorizationBehavior.cs",
+              "ToolTip": "C:\\Users\\Alican\\source\\repos\\Polls\\Src\\Core\\Application\\Behaviours\\AuthorizationBehavior.cs",
+              "RelativeToolTip": "Src\\Core\\Application\\Behaviours\\AuthorizationBehavior.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABQAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T10:37:35.582Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "IUserOperationClaimRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Alican\\source\\repos\\Polls\\Src\\Core\\Application\\Interfaces\\IUserOperationClaimRepository.cs",
+              "RelativeDocumentMoniker": "Src\\Core\\Application\\Interfaces\\IUserOperationClaimRepository.cs",
+              "ToolTip": "C:\\Users\\Alican\\source\\repos\\Polls\\Src\\Core\\Application\\Interfaces\\IUserOperationClaimRepository.cs",
+              "RelativeToolTip": "Src\\Core\\Application\\Interfaces\\IUserOperationClaimRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAACCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T15:24:31.061Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "UserOperationClaimRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Alican\\source\\repos\\Polls\\Src\\Infrastructure\\Persistence\\Repositories\\UserOperationClaimRepository.cs",
+              "RelativeDocumentMoniker": "Src\\Infrastructure\\Persistence\\Repositories\\UserOperationClaimRepository.cs",
+              "ToolTip": "C:\\Users\\Alican\\source\\repos\\Polls\\Src\\Infrastructure\\Persistence\\Repositories\\UserOperationClaimRepository.cs",
+              "RelativeToolTip": "Src\\Infrastructure\\Persistence\\Repositories\\UserOperationClaimRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T15:24:42.839Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ServiceRegistiration.cs",
+              "DocumentMoniker": "C:\\Users\\Alican\\source\\repos\\Polls\\Src\\Infrastructure\\Persistence\\ServiceRegistiration.cs",
+              "RelativeDocumentMoniker": "Src\\Infrastructure\\Persistence\\ServiceRegistiration.cs",
+              "ToolTip": "C:\\Users\\Alican\\source\\repos\\Polls\\Src\\Infrastructure\\Persistence\\ServiceRegistiration.cs",
+              "RelativeToolTip": "Src\\Infrastructure\\Persistence\\ServiceRegistiration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAABaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-12-11T02:08:06.95Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "ValidationException.cs",
+              "DocumentMoniker": "C:\\Users\\Alican\\source\\repos\\Polls\\Src\\Core\\Application\\Exceptions\\ValidationException.cs",
+              "RelativeDocumentMoniker": "Src\\Core\\Application\\Exceptions\\ValidationException.cs",
+              "ToolTip": "C:\\Users\\Alican\\source\\repos\\Polls\\Src\\Core\\Application\\Exceptions\\ValidationException.cs",
+              "RelativeToolTip": "Src\\Core\\Application\\Exceptions\\ValidationException.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAAwwAsAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T10:48:42.035Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "ISecuredRequest.cs",
+              "DocumentMoniker": "C:\\Users\\Alican\\source\\repos\\Polls\\Src\\Core\\Application\\Behaviours\\ISecuredRequest.cs",
+              "RelativeDocumentMoniker": "Src\\Core\\Application\\Behaviours\\ISecuredRequest.cs",
+              "ToolTip": "C:\\Users\\Alican\\source\\repos\\Polls\\Src\\Core\\Application\\Behaviours\\ISecuredRequest.cs",
+              "RelativeToolTip": "Src\\Core\\Application\\Behaviours\\ISecuredRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T10:37:37.627Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "UserLoginCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\Alican\\source\\repos\\Polls\\Src\\Core\\Application\\Features\\Users\\UserLoginCommand\\UserLoginCommandHandler.cs",
+              "RelativeDocumentMoniker": "Src\\Core\\Application\\Features\\Users\\UserLoginCommand\\UserLoginCommandHandler.cs",
+              "ToolTip": "C:\\Users\\Alican\\source\\repos\\Polls\\Src\\Core\\Application\\Features\\Users\\UserLoginCommand\\UserLoginCommandHandler.cs",
+              "RelativeToolTip": "Src\\Core\\Application\\Features\\Users\\UserLoginCommand\\UserLoginCommandHandler.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAqwCkAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T10:04:33.782Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "UserLoginCommandRequest.cs",
+              "DocumentMoniker": "C:\\Users\\Alican\\source\\repos\\Polls\\Src\\Core\\Application\\Features\\Users\\UserLoginCommand\\UserLoginCommandRequest.cs",
+              "RelativeDocumentMoniker": "Src\\Core\\Application\\Features\\Users\\UserLoginCommand\\UserLoginCommandRequest.cs",
+              "ToolTip": "C:\\Users\\Alican\\source\\repos\\Polls\\Src\\Core\\Application\\Features\\Users\\UserLoginCommand\\UserLoginCommandRequest.cs",
+              "RelativeToolTip": "Src\\Core\\Application\\Features\\Users\\UserLoginCommand\\UserLoginCommandRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T10:59:35.485Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Alican\\source\\repos\\Polls\\Src\\Presentation\\WebAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "Src\\Presentation\\WebAPI\\appsettings.json",
+              "ToolTip": "C:\\Users\\Alican\\source\\repos\\Polls\\Src\\Presentation\\WebAPI\\appsettings.json",
+              "RelativeToolTip": "Src\\Presentation\\WebAPI\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-27T10:30:32.847Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "ValidationBehavior.cs",
+              "DocumentMoniker": "C:\\Users\\Alican\\source\\repos\\Polls\\Src\\Core\\Application\\Behaviours\\ValidationBehavior.cs",
+              "RelativeDocumentMoniker": "Src\\Core\\Application\\Behaviours\\ValidationBehavior.cs",
+              "ToolTip": "C:\\Users\\Alican\\source\\repos\\Polls\\Src\\Core\\Application\\Behaviours\\ValidationBehavior.cs",
+              "RelativeToolTip": "Src\\Core\\Application\\Behaviours\\ValidationBehavior.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T10:35:05.273Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Application.csproj",
+              "DocumentMoniker": "C:\\Users\\Alican\\source\\repos\\Polls\\Src\\Core\\Application\\Application.csproj",
+              "RelativeDocumentMoniker": "Src\\Core\\Application\\Application.csproj",
+              "ToolTip": "C:\\Users\\Alican\\source\\repos\\Polls\\Src\\Core\\Application\\Application.csproj",
+              "RelativeToolTip": "Src\\Core\\Application\\Application.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-28T14:31:26.741Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "ISecuredRequest.cs",
+              "DocumentMoniker": "C:\\Users\\Alican\\source\\repos\\Polls\\Src\\corePackages\\Core.Application\\Pipelines\\Authorization\\ISecuredRequest.cs",
+              "RelativeDocumentMoniker": "Src\\corePackages\\Core.Application\\Pipelines\\Authorization\\ISecuredRequest.cs",
+              "ToolTip": "C:\\Users\\Alican\\source\\repos\\Polls\\Src\\corePackages\\Core.Application\\Pipelines\\Authorization\\ISecuredRequest.cs",
+              "RelativeToolTip": "Src\\corePackages\\Core.Application\\Pipelines\\Authorization\\ISecuredRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T14:43:10.536Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Domain.csproj",
+              "DocumentMoniker": "C:\\Users\\Alican\\source\\repos\\Polls\\Src\\Core\\Domain\\Domain.csproj",
+              "RelativeDocumentMoniker": "Src\\Core\\Domain\\Domain.csproj",
+              "ToolTip": "C:\\Users\\Alican\\source\\repos\\Polls\\Src\\Core\\Domain\\Domain.csproj",
+              "RelativeToolTip": "Src\\Core\\Domain\\Domain.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-27T10:27:02.746Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "AuthorizationBehavior.cs",
+              "DocumentMoniker": "C:\\Users\\Alican\\source\\repos\\Polls\\Src\\corePackages\\Core.Application\\Pipelines\\Authorization\\AuthorizationBehavior.cs",
+              "RelativeDocumentMoniker": "Src\\corePackages\\Core.Application\\Pipelines\\Authorization\\AuthorizationBehavior.cs",
+              "ToolTip": "C:\\Users\\Alican\\source\\repos\\Polls\\Src\\corePackages\\Core.Application\\Pipelines\\Authorization\\AuthorizationBehavior.cs",
+              "RelativeToolTip": "Src\\corePackages\\Core.Application\\Pipelines\\Authorization\\AuthorizationBehavior.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T10:11:09.622Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "CreateFormCommandRequestHandler.cs",
+              "DocumentMoniker": "C:\\Users\\Alican\\source\\repos\\Polls\\Src\\Core\\Application\\Features\\QuestionOptions\\CreateFormCommandRequestHandler.cs",
+              "RelativeDocumentMoniker": "Src\\Core\\Application\\Features\\QuestionOptions\\CreateFormCommandRequestHandler.cs",
+              "ToolTip": "C:\\Users\\Alican\\source\\repos\\Polls\\Src\\Core\\Application\\Features\\QuestionOptions\\CreateFormCommandRequestHandler.cs",
+              "RelativeToolTip": "Src\\Core\\Application\\Features\\QuestionOptions\\CreateFormCommandRequestHandler.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAEwCAAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T17:14:30.069Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "GetFormByIdQueryRequestHandler.cs",
+              "DocumentMoniker": "C:\\Users\\Alican\\source\\repos\\Polls\\Src\\Core\\Application\\Features\\Forms\\Handlers\\GetFormByIdQueryRequestHandler.cs",
+              "RelativeDocumentMoniker": "Src\\Core\\Application\\Features\\Forms\\Handlers\\GetFormByIdQueryRequestHandler.cs",
+              "ToolTip": "C:\\Users\\Alican\\source\\repos\\Polls\\Src\\Core\\Application\\Features\\Forms\\Handlers\\GetFormByIdQueryRequestHandler.cs",
+              "RelativeToolTip": "Src\\Core\\Application\\Features\\Forms\\Handlers\\GetFormByIdQueryRequestHandler.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAApwCkAAABNAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T01:03:24.246Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "GetFormByIdQueryRequest.cs",
+              "DocumentMoniker": "C:\\Users\\Alican\\source\\repos\\Polls\\Src\\Core\\Application\\Features\\Forms\\Queries\\Request\\GetFormByIdQueryRequest.cs",
+              "RelativeDocumentMoniker": "Src\\Core\\Application\\Features\\Forms\\Queries\\Request\\GetFormByIdQueryRequest.cs",
+              "ToolTip": "C:\\Users\\Alican\\source\\repos\\Polls\\Src\\Core\\Application\\Features\\Forms\\Queries\\Request\\GetFormByIdQueryRequest.cs",
+              "RelativeToolTip": "Src\\Core\\Application\\Features\\Forms\\Queries\\Request\\GetFormByIdQueryRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T09:38:03.324Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ServiceExtension.cs",
+              "DocumentMoniker": "C:\\Users\\Alican\\source\\repos\\Polls\\Src\\Core\\Application\\ServiceExtension.cs",
+              "RelativeDocumentMoniker": "Src\\Core\\Application\\ServiceExtension.cs",
+              "ToolTip": "C:\\Users\\Alican\\source\\repos\\Polls\\Src\\Core\\Application\\ServiceExtension.cs",
+              "RelativeToolTip": "Src\\Core\\Application\\ServiceExtension.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAqwBMAAABWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T10:07:10.179Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "RequestValidationBehavior.cs",
+              "DocumentMoniker": "C:\\Users\\Alican\\source\\repos\\Polls\\Src\\corePackages\\Core.Application\\Pipelines\\Validation\\RequestValidationBehavior.cs",
+              "RelativeDocumentMoniker": "Src\\corePackages\\Core.Application\\Pipelines\\Validation\\RequestValidationBehavior.cs",
+              "ToolTip": "C:\\Users\\Alican\\source\\repos\\Polls\\Src\\corePackages\\Core.Application\\Pipelines\\Validation\\RequestValidationBehavior.cs",
+              "RelativeToolTip": "Src\\corePackages\\Core.Application\\Pipelines\\Validation\\RequestValidationBehavior.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T10:05:36.324Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "GetFormByIdQueryResponse.cs",
+              "DocumentMoniker": "C:\\Users\\Alican\\source\\repos\\Polls\\Src\\Core\\Application\\Features\\Forms\\Queries\\Response\\GetFormByIdQueryResponse.cs",
+              "RelativeDocumentMoniker": "Src\\Core\\Application\\Features\\Forms\\Queries\\Response\\GetFormByIdQueryResponse.cs",
+              "ToolTip": "C:\\Users\\Alican\\source\\repos\\Polls\\Src\\Core\\Application\\Features\\Forms\\Queries\\Response\\GetFormByIdQueryResponse.cs",
+              "RelativeToolTip": "Src\\Core\\Application\\Features\\Forms\\Queries\\Response\\GetFormByIdQueryResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T09:38:04.428Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "CreateFormQuestionCommandRequest.cs",
+              "DocumentMoniker": "C:\\Users\\Alican\\source\\repos\\Polls\\Src\\Core\\Application\\Features\\QuestionOptions\\CreateFormQuestionCommandRequest.cs",
+              "RelativeDocumentMoniker": "Src\\Core\\Application\\Features\\QuestionOptions\\CreateFormQuestionCommandRequest.cs",
+              "ToolTip": "C:\\Users\\Alican\\source\\repos\\Polls\\Src\\Core\\Application\\Features\\QuestionOptions\\CreateFormQuestionCommandRequest.cs",
+              "RelativeToolTip": "Src\\Core\\Application\\Features\\QuestionOptions\\CreateFormQuestionCommandRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwA8AAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T17:17:13.192Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "CreateQuestionOptCommandResponse.cs",
+              "DocumentMoniker": "C:\\Users\\Alican\\source\\repos\\Polls\\Src\\Core\\Application\\Features\\QuestionOptions\\CreateQuestionOptCommandResponse.cs",
+              "RelativeDocumentMoniker": "Src\\Core\\Application\\Features\\QuestionOptions\\CreateQuestionOptCommandResponse.cs",
+              "ToolTip": "C:\\Users\\Alican\\source\\repos\\Polls\\Src\\Core\\Application\\Features\\QuestionOptions\\CreateQuestionOptCommandResponse.cs",
+              "RelativeToolTip": "Src\\Core\\Application\\Features\\QuestionOptions\\CreateQuestionOptCommandResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T17:18:02.333Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "UserRegisterCommandResponse.cs",
+              "DocumentMoniker": "C:\\Users\\Alican\\source\\repos\\Polls\\Src\\Core\\Application\\Features\\Users\\UserRegisterCommand\\UserRegisterCommandResponse.cs",
+              "RelativeDocumentMoniker": "Src\\Core\\Application\\Features\\Users\\UserRegisterCommand\\UserRegisterCommandResponse.cs",
+              "ToolTip": "C:\\Users\\Alican\\source\\repos\\Polls\\Src\\Core\\Application\\Features\\Users\\UserRegisterCommand\\UserRegisterCommandResponse.cs",
+              "RelativeToolTip": "Src\\Core\\Application\\Features\\Users\\UserRegisterCommand\\UserRegisterCommandResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T09:43:24.307Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "CreateFormQuestionCommandResponse.cs",
+              "DocumentMoniker": "C:\\Users\\Alican\\source\\repos\\Polls\\Src\\Core\\Application\\Features\\FormQuestions\\CreateFormQuestionCommandResponse.cs",
+              "RelativeDocumentMoniker": "Src\\Core\\Application\\Features\\FormQuestions\\CreateFormQuestionCommandResponse.cs",
+              "ToolTip": "C:\\Users\\Alican\\source\\repos\\Polls\\Src\\Core\\Application\\Features\\FormQuestions\\CreateFormQuestionCommandResponse.cs",
+              "RelativeToolTip": "Src\\Core\\Application\\Features\\FormQuestions\\CreateFormQuestionCommandResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwBAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T17:09:08.899Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "FormQuestionsDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Alican\\source\\repos\\Polls\\Src\\Core\\Application\\Features\\Dtos\\FormQuestionsDTO.cs",
+              "RelativeDocumentMoniker": "Src\\Core\\Application\\Features\\Dtos\\FormQuestionsDTO.cs",
+              "ToolTip": "C:\\Users\\Alican\\source\\repos\\Polls\\Src\\Core\\Application\\Features\\Dtos\\FormQuestionsDTO.cs",
+              "RelativeToolTip": "Src\\Core\\Application\\Features\\Dtos\\FormQuestionsDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAoAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T16:54:27.294Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "QuestionOptionsDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Alican\\source\\repos\\Polls\\Src\\Core\\Application\\Features\\Dtos\\QuestionOptionsDTO.cs",
+              "RelativeDocumentMoniker": "Src\\Core\\Application\\Features\\Dtos\\QuestionOptionsDTO.cs",
+              "ToolTip": "C:\\Users\\Alican\\source\\repos\\Polls\\Src\\Core\\Application\\Features\\Dtos\\QuestionOptionsDTO.cs",
+              "RelativeToolTip": "Src\\Core\\Application\\Features\\Dtos\\QuestionOptionsDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAoAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T16:54:17.93Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "GetAllFormsQueryRequest.cs",
+              "DocumentMoniker": "C:\\Users\\Alican\\source\\repos\\Polls\\Src\\Core\\Application\\Features\\Forms\\Queries\\Request\\GetAllFormsQueryRequest.cs",
+              "RelativeDocumentMoniker": "Src\\Core\\Application\\Features\\Forms\\Queries\\Request\\GetAllFormsQueryRequest.cs",
+              "ToolTip": "C:\\Users\\Alican\\source\\repos\\Polls\\Src\\Core\\Application\\Features\\Forms\\Queries\\Request\\GetAllFormsQueryRequest.cs",
+              "RelativeToolTip": "Src\\Core\\Application\\Features\\Forms\\Queries\\Request\\GetAllFormsQueryRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T05:07:26.278Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "CreateFormDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Alican\\source\\repos\\Polls\\Src\\Core\\Application\\Features\\Dtos\\CreateFormDTO.cs",
+              "RelativeDocumentMoniker": "Src\\Core\\Application\\Features\\Dtos\\CreateFormDTO.cs",
+              "ToolTip": "C:\\Users\\Alican\\source\\repos\\Polls\\Src\\Core\\Application\\Features\\Dtos\\CreateFormDTO.cs",
+              "RelativeToolTip": "Src\\Core\\Application\\Features\\Dtos\\CreateFormDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T04:47:50.307Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "CreateFormCommandRequest.cs",
+              "DocumentMoniker": "C:\\Users\\Alican\\source\\repos\\Polls\\Src\\Core\\Application\\Features\\Forms\\Commands\\Request\\CreateFormCommandRequest.cs",
+              "RelativeDocumentMoniker": "Src\\Core\\Application\\Features\\Forms\\Commands\\Request\\CreateFormCommandRequest.cs",
+              "ToolTip": "C:\\Users\\Alican\\source\\repos\\Polls\\Src\\Core\\Application\\Features\\Forms\\Commands\\Request\\CreateFormCommandRequest.cs",
+              "RelativeToolTip": "Src\\Core\\Application\\Features\\Forms\\Commands\\Request\\CreateFormCommandRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwBAAAABgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T04:31:12.166Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "GetAllFormsQueryResponse.cs",
+              "DocumentMoniker": "C:\\Users\\Alican\\source\\repos\\Polls\\Src\\Core\\Application\\Features\\Forms\\Queries\\Response\\GetAllFormsQueryResponse.cs",
+              "RelativeDocumentMoniker": "Src\\Core\\Application\\Features\\Forms\\Queries\\Response\\GetAllFormsQueryResponse.cs",
+              "ToolTip": "C:\\Users\\Alican\\source\\repos\\Polls\\Src\\Core\\Application\\Features\\Forms\\Queries\\Response\\GetAllFormsQueryResponse.cs",
+              "RelativeToolTip": "Src\\Core\\Application\\Features\\Forms\\Queries\\Response\\GetAllFormsQueryResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAwAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T04:25:05.085Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "GetFormDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Alican\\source\\repos\\Polls\\Src\\Core\\Application\\Features\\Dtos\\GetFormDTO.cs",
+              "RelativeDocumentMoniker": "Src\\Core\\Application\\Features\\Dtos\\GetFormDTO.cs",
+              "ToolTip": "C:\\Users\\Alican\\source\\repos\\Polls\\Src\\Core\\Application\\Features\\Dtos\\GetFormDTO.cs",
+              "RelativeToolTip": "Src\\Core\\Application\\Features\\Dtos\\GetFormDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwA4AAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T04:16:30.773Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "FormRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Alican\\source\\repos\\Polls\\Src\\Infrastructure\\Persistence\\Repositories\\FormRepository.cs",
+              "RelativeDocumentMoniker": "Src\\Infrastructure\\Persistence\\Repositories\\FormRepository.cs",
+              "ToolTip": "C:\\Users\\Alican\\source\\repos\\Polls\\Src\\Infrastructure\\Persistence\\Repositories\\FormRepository.cs",
+              "RelativeToolTip": "Src\\Infrastructure\\Persistence\\Repositories\\FormRepository.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAswCQAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T04:02:34.957Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "GetAllOperatorsQueryRequest.cs",
+              "DocumentMoniker": "C:\\Users\\Alican\\source\\repos\\Polls\\Src\\Core\\Application\\Features\\Forms\\Queries\\Request\\GetAllOperatorsQueryRequest.cs",
+              "RelativeDocumentMoniker": "Src\\Core\\Application\\Features\\Forms\\Queries\\Request\\GetAllOperatorsQueryRequest.cs",
+              "ToolTip": "C:\\Users\\Alican\\source\\repos\\Polls\\Src\\Core\\Application\\Features\\Forms\\Queries\\Request\\GetAllOperatorsQueryRequest.cs",
+              "RelativeToolTip": "Src\\Core\\Application\\Features\\Forms\\Queries\\Request\\GetAllOperatorsQueryRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T03:44:00.509Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "GetAllOperatorsQueryRequestHandler.cs",
+              "DocumentMoniker": "C:\\Users\\Alican\\source\\repos\\Polls\\Src\\Core\\Application\\Features\\Forms\\Handlers\\GetAllOperatorsQueryRequestHandler.cs",
+              "RelativeDocumentMoniker": "Src\\Core\\Application\\Features\\Forms\\Handlers\\GetAllOperatorsQueryRequestHandler.cs",
+              "ToolTip": "C:\\Users\\Alican\\source\\repos\\Polls\\Src\\Core\\Application\\Features\\Forms\\Handlers\\GetAllOperatorsQueryRequestHandler.cs",
+              "RelativeToolTip": "Src\\Core\\Application\\Features\\Forms\\Handlers\\GetAllOperatorsQueryRequestHandler.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAiwCEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T03:08:26.307Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "OperatorRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Alican\\source\\repos\\Polls\\Src\\Infrastructure\\Persistence\\Repositories\\OperatorRepository.cs",
+              "RelativeDocumentMoniker": "Src\\Infrastructure\\Persistence\\Repositories\\OperatorRepository.cs",
+              "ToolTip": "C:\\Users\\Alican\\source\\repos\\Polls\\Src\\Infrastructure\\Persistence\\Repositories\\OperatorRepository.cs",
+              "RelativeToolTip": "Src\\Infrastructure\\Persistence\\Repositories\\OperatorRepository.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAA5wCIAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T03:14:25.522Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "OperatorController.cs",
+              "DocumentMoniker": "C:\\Users\\Alican\\source\\repos\\Polls\\Src\\Presentation\\WebAPI\\Controllers\\OperatorController.cs",
+              "RelativeDocumentMoniker": "Src\\Presentation\\WebAPI\\Controllers\\OperatorController.cs",
+              "ToolTip": "C:\\Users\\Alican\\source\\repos\\Polls\\Src\\Presentation\\WebAPI\\Controllers\\OperatorController.cs",
+              "RelativeToolTip": "Src\\Presentation\\WebAPI\\Controllers\\OperatorController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAABfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T03:41:10.55Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "CreateFormCommandRequestHandler.cs",
+              "DocumentMoniker": "C:\\Users\\Alican\\source\\repos\\Polls\\Src\\Core\\Application\\Features\\Forms\\Handlers\\CreateFormCommandRequestHandler.cs",
+              "RelativeDocumentMoniker": "Src\\Core\\Application\\Features\\Forms\\Handlers\\CreateFormCommandRequestHandler.cs",
+              "ToolTip": "C:\\Users\\Alican\\source\\repos\\Polls\\Src\\Core\\Application\\Features\\Forms\\Handlers\\CreateFormCommandRequestHandler.cs",
+              "RelativeToolTip": "Src\\Core\\Application\\Features\\Forms\\Handlers\\CreateFormCommandRequestHandler.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAxwCMAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T01:03:22.118Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "GetOperatorByIdQueryRequestHandler.cs",
+              "DocumentMoniker": "C:\\Users\\Alican\\source\\repos\\Polls\\Src\\Core\\Application\\Features\\Forms\\Handlers\\GetOperatorByIdQueryRequestHandler.cs",
+              "RelativeDocumentMoniker": "Src\\Core\\Application\\Features\\Forms\\Handlers\\GetOperatorByIdQueryRequestHandler.cs",
+              "ToolTip": "C:\\Users\\Alican\\source\\repos\\Polls\\Src\\Core\\Application\\Features\\Forms\\Handlers\\GetOperatorByIdQueryRequestHandler.cs",
+              "RelativeToolTip": "Src\\Core\\Application\\Features\\Forms\\Handlers\\GetOperatorByIdQueryRequestHandler.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAA1wB8AAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T23:35:54.294Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "GetAllFormsQueryRequestHandler.cs",
+              "DocumentMoniker": "C:\\Users\\Alican\\source\\repos\\Polls\\Src\\Core\\Application\\Features\\Forms\\Handlers\\GetAllFormsQueryRequestHandler.cs",
+              "RelativeDocumentMoniker": "Src\\Core\\Application\\Features\\Forms\\Handlers\\GetAllFormsQueryRequestHandler.cs",
+              "ToolTip": "C:\\Users\\Alican\\source\\repos\\Polls\\Src\\Core\\Application\\Features\\Forms\\Handlers\\GetAllFormsQueryRequestHandler.cs",
+              "RelativeToolTip": "Src\\Core\\Application\\Features\\Forms\\Handlers\\GetAllFormsQueryRequestHandler.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAEwBoAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T19:35:20.254Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "QuestionOpt.cs",
+              "DocumentMoniker": "C:\\Users\\Alican\\source\\repos\\Polls\\Src\\Core\\Domain\\Entities\\QuestionOpt.cs",
+              "RelativeDocumentMoniker": "Src\\Core\\Domain\\Entities\\QuestionOpt.cs",
+              "ToolTip": "C:\\Users\\Alican\\source\\repos\\Polls\\Src\\Core\\Domain\\Entities\\QuestionOpt.cs",
+              "RelativeToolTip": "Src\\Core\\Domain\\Entities\\QuestionOpt.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T02:20:07.429Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "BaseRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Alican\\source\\repos\\Polls\\Src\\Infrastructure\\Persistence\\Repositories\\BaseRepository.cs",
+              "RelativeDocumentMoniker": "Src\\Infrastructure\\Persistence\\Repositories\\BaseRepository.cs",
+              "ToolTip": "C:\\Users\\Alican\\source\\repos\\Polls\\Src\\Infrastructure\\Persistence\\Repositories\\BaseRepository.cs",
+              "RelativeToolTip": "Src\\Infrastructure\\Persistence\\Repositories\\BaseRepository.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAA4AAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T11:10:19.375Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 69,
+              "Title": "SecurityKeyHelper.cs",
+              "DocumentMoniker": "C:\\Users\\Alican\\source\\repos\\Polls\\Src\\corePackages\\Core.Security\\Encryption\\SecurityKeyHelper.cs",
+              "RelativeDocumentMoniker": "Src\\corePackages\\Core.Security\\Encryption\\SecurityKeyHelper.cs",
+              "ToolTip": "C:\\Users\\Alican\\source\\repos\\Polls\\Src\\corePackages\\Core.Security\\Encryption\\SecurityKeyHelper.cs",
+              "RelativeToolTip": "Src\\corePackages\\Core.Security\\Encryption\\SecurityKeyHelper.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T10:59:28.901Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 70,
+              "Title": "SigningCredentialsHelper.cs",
+              "DocumentMoniker": "C:\\Users\\Alican\\source\\repos\\Polls\\Src\\corePackages\\Core.Security\\Encryption\\SigningCredentialsHelper.cs",
+              "RelativeDocumentMoniker": "Src\\corePackages\\Core.Security\\Encryption\\SigningCredentialsHelper.cs",
+              "ToolTip": "C:\\Users\\Alican\\source\\repos\\Polls\\Src\\corePackages\\Core.Security\\Encryption\\SigningCredentialsHelper.cs",
+              "RelativeToolTip": "Src\\corePackages\\Core.Security\\Encryption\\SigningCredentialsHelper.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T10:59:27.861Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "JwtHelper.cs",
+              "DocumentMoniker": "C:\\Users\\Alican\\source\\repos\\Polls\\Src\\corePackages\\Core.Security\\JWT\\JwtHelper.cs",
+              "RelativeDocumentMoniker": "Src\\corePackages\\Core.Security\\JWT\\JwtHelper.cs",
+              "ToolTip": "C:\\Users\\Alican\\source\\repos\\Polls\\Src\\corePackages\\Core.Security\\JWT\\JwtHelper.cs",
+              "RelativeToolTip": "Src\\corePackages\\Core.Security\\JWT\\JwtHelper.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T10:59:08.686Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 71,
+              "Title": "TokenOptions.cs",
+              "DocumentMoniker": "C:\\Users\\Alican\\source\\repos\\Polls\\Src\\corePackages\\Core.Security\\JWT\\TokenOptions.cs",
+              "RelativeDocumentMoniker": "Src\\corePackages\\Core.Security\\JWT\\TokenOptions.cs",
+              "ToolTip": "C:\\Users\\Alican\\source\\repos\\Polls\\Src\\corePackages\\Core.Security\\JWT\\TokenOptions.cs",
+              "RelativeToolTip": "Src\\corePackages\\Core.Security\\JWT\\TokenOptions.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T10:59:06.021Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "IUserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Alican\\source\\repos\\Polls\\Src\\Core\\Application\\Interfaces\\IUserRepository.cs",
+              "RelativeDocumentMoniker": "Src\\Core\\Application\\Interfaces\\IUserRepository.cs",
+              "ToolTip": "C:\\Users\\Alican\\source\\repos\\Polls\\Src\\Core\\Application\\Interfaces\\IUserRepository.cs",
+              "RelativeToolTip": "Src\\Core\\Application\\Interfaces\\IUserRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T10:29:08.754Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\Alican\\source\\repos\\Polls\\Src\\corePackages\\Core.Security\\Entities\\User.cs",
+              "RelativeDocumentMoniker": "Src\\corePackages\\Core.Security\\Entities\\User.cs",
+              "ToolTip": "C:\\Users\\Alican\\source\\repos\\Polls\\Src\\corePackages\\Core.Security\\Entities\\User.cs",
+              "RelativeToolTip": "Src\\corePackages\\Core.Security\\Entities\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T10:21:44.021Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "UserOperationClaim.cs",
+              "DocumentMoniker": "C:\\Users\\Alican\\source\\repos\\Polls\\Src\\corePackages\\Core.Security\\Entities\\UserOperationClaim.cs",
+              "RelativeDocumentMoniker": "Src\\corePackages\\Core.Security\\Entities\\UserOperationClaim.cs",
+              "ToolTip": "C:\\Users\\Alican\\source\\repos\\Polls\\Src\\corePackages\\Core.Security\\Entities\\UserOperationClaim.cs",
+              "RelativeToolTip": "Src\\corePackages\\Core.Security\\Entities\\UserOperationClaim.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T10:20:58.013Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "Operator.cs",
+              "DocumentMoniker": "C:\\Users\\Alican\\source\\repos\\Polls\\Src\\Core\\Domain\\Entities\\Operator.cs",
+              "RelativeDocumentMoniker": "Src\\Core\\Domain\\Entities\\Operator.cs",
+              "ToolTip": "C:\\Users\\Alican\\source\\repos\\Polls\\Src\\Core\\Domain\\Entities\\Operator.cs",
+              "RelativeToolTip": "Src\\Core\\Domain\\Entities\\Operator.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAADwvxAAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T10:06:59.789Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "IEntityRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Alican\\source\\repos\\Polls\\Src\\Core\\Application\\Interfaces\\IEntityRepository.cs",
+              "RelativeDocumentMoniker": "Src\\Core\\Application\\Interfaces\\IEntityRepository.cs",
+              "ToolTip": "C:\\Users\\Alican\\source\\repos\\Polls\\Src\\Core\\Application\\Interfaces\\IEntityRepository.cs",
+              "RelativeToolTip": "Src\\Core\\Application\\Interfaces\\IEntityRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T03:11:11.394Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 67,
+              "Title": "UserLoginCommandResponse.cs",
+              "DocumentMoniker": "C:\\Users\\Alican\\source\\repos\\Polls\\Src\\Core\\Application\\Features\\Users\\UserLoginCommand\\UserLoginCommandResponse.cs",
+              "RelativeDocumentMoniker": "Src\\Core\\Application\\Features\\Users\\UserLoginCommand\\UserLoginCommandResponse.cs",
+              "ToolTip": "C:\\Users\\Alican\\source\\repos\\Polls\\Src\\Core\\Application\\Features\\Users\\UserLoginCommand\\UserLoginCommandResponse.cs",
+              "RelativeToolTip": "Src\\Core\\Application\\Features\\Users\\UserLoginCommand\\UserLoginCommandResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAIwBAAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T10:04:06.24Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Alican\\source\\repos\\Polls\\Src\\Infrastructure\\Persistence\\Repositories\\UserRepository.cs",
+              "RelativeDocumentMoniker": "Src\\Infrastructure\\Persistence\\Repositories\\UserRepository.cs",
+              "ToolTip": "C:\\Users\\Alican\\source\\repos\\Polls\\Src\\Infrastructure\\Persistence\\Repositories\\UserRepository.cs",
+              "RelativeToolTip": "Src\\Infrastructure\\Persistence\\Repositories\\UserRepository.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAiwAgAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T09:30:39.357Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 72,
+              "Title": "IRefreshTokenRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Alican\\source\\repos\\Polls\\Src\\Core\\Application\\Interfaces\\IRefreshTokenRepository.cs",
+              "RelativeDocumentMoniker": "Src\\Core\\Application\\Interfaces\\IRefreshTokenRepository.cs",
+              "ToolTip": "C:\\Users\\Alican\\source\\repos\\Polls\\Src\\Core\\Application\\Interfaces\\IRefreshTokenRepository.cs",
+              "RelativeToolTip": "Src\\Core\\Application\\Interfaces\\IRefreshTokenRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T09:27:55.386Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "UserAnswerRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Alican\\source\\repos\\Polls\\Src\\Infrastructure\\Persistence\\Repositories\\UserAnswerRepository.cs",
+              "RelativeDocumentMoniker": "Src\\Infrastructure\\Persistence\\Repositories\\UserAnswerRepository.cs",
+              "ToolTip": "C:\\Users\\Alican\\source\\repos\\Polls\\Src\\Infrastructure\\Persistence\\Repositories\\UserAnswerRepository.cs",
+              "RelativeToolTip": "Src\\Infrastructure\\Persistence\\Repositories\\UserAnswerRepository.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAcwAwAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T03:14:36.706Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 66,
+              "Title": "QuestionOptRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Alican\\source\\repos\\Polls\\Src\\Infrastructure\\Persistence\\Repositories\\QuestionOptRepository.cs",
+              "RelativeDocumentMoniker": "Src\\Infrastructure\\Persistence\\Repositories\\QuestionOptRepository.cs",
+              "ToolTip": "C:\\Users\\Alican\\source\\repos\\Polls\\Src\\Infrastructure\\Persistence\\Repositories\\QuestionOptRepository.cs",
+              "RelativeToolTip": "Src\\Infrastructure\\Persistence\\Repositories\\QuestionOptRepository.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAIwAwAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T03:14:29.857Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "IEntityReadRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Alican\\source\\repos\\Polls\\Src\\Core\\Application\\Interfaces\\IEntityReadRepository.cs",
+              "RelativeDocumentMoniker": "Src\\Core\\Application\\Interfaces\\IEntityReadRepository.cs",
+              "ToolTip": "C:\\Users\\Alican\\source\\repos\\Polls\\Src\\Core\\Application\\Interfaces\\IEntityReadRepository.cs",
+              "RelativeToolTip": "Src\\Core\\Application\\Interfaces\\IEntityReadRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwA0AAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T03:11:03.058Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "ReadRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Alican\\source\\repos\\Polls\\Src\\Infrastructure\\Persistence\\Repositories\\ReadRepository.cs",
+              "RelativeDocumentMoniker": "Src\\Infrastructure\\Persistence\\Repositories\\ReadRepository.cs",
+              "ToolTip": "C:\\Users\\Alican\\source\\repos\\Polls\\Src\\Infrastructure\\Persistence\\Repositories\\ReadRepository.cs",
+              "RelativeToolTip": "Src\\Infrastructure\\Persistence\\Repositories\\ReadRepository.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAgwCQAAACGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-12-15T19:36:51.352Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "Question.cs",
+              "DocumentMoniker": "C:\\Users\\Alican\\source\\repos\\Polls\\Src\\Core\\Domain\\Entities\\Question.cs",
+              "RelativeDocumentMoniker": "Src\\Core\\Domain\\Entities\\Question.cs",
+              "ToolTip": "C:\\Users\\Alican\\source\\repos\\Polls\\Src\\Core\\Domain\\Entities\\Question.cs",
+              "RelativeToolTip": "Src\\Core\\Domain\\Entities\\Question.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-16T09:33:39.693Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 68,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Alican\\source\\repos\\Polls\\Src\\Infrastructure\\Persistence\\Contexts\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Src\\Infrastructure\\Persistence\\Contexts\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\Alican\\source\\repos\\Polls\\Src\\Infrastructure\\Persistence\\Contexts\\AppDbContext.cs",
+              "RelativeToolTip": "Src\\Infrastructure\\Persistence\\Contexts\\AppDbContext.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAwwBIAAABMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-12-10T03:08:50.692Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "Form.cs",
+              "DocumentMoniker": "C:\\Users\\Alican\\source\\repos\\Polls\\Src\\Core\\Domain\\Entities\\Form.cs",
+              "RelativeDocumentMoniker": "Src\\Core\\Domain\\Entities\\Form.cs",
+              "ToolTip": "C:\\Users\\Alican\\source\\repos\\Polls\\Src\\Core\\Domain\\Entities\\Form.cs",
+              "RelativeToolTip": "Src\\Core\\Domain\\Entities\\Form.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAewA0AAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-12-16T13:32:40.791Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 73,
+              "Title": "BaseConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\Alican\\source\\repos\\Polls\\Src\\Core\\Domain\\Settings\\BaseConfiguration.cs",
+              "RelativeDocumentMoniker": "Src\\Core\\Domain\\Settings\\BaseConfiguration.cs",
+              "ToolTip": "C:\\Users\\Alican\\source\\repos\\Polls\\Src\\Core\\Domain\\Settings\\BaseConfiguration.cs",
+              "RelativeToolTip": "Src\\Core\\Domain\\Settings\\BaseConfiguration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T01:55:08.282Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "CreateFormCommandResponse.cs",
+              "DocumentMoniker": "C:\\Users\\Alican\\source\\repos\\Polls\\Src\\Core\\Application\\Features\\Forms\\Commands\\Response\\CreateFormCommandResponse.cs",
+              "RelativeDocumentMoniker": "Src\\Core\\Application\\Features\\Forms\\Commands\\Response\\CreateFormCommandResponse.cs",
+              "ToolTip": "C:\\Users\\Alican\\source\\repos\\Polls\\Src\\Core\\Application\\Features\\Forms\\Commands\\Response\\CreateFormCommandResponse.cs",
+              "RelativeToolTip": "Src\\Core\\Application\\Features\\Forms\\Commands\\Response\\CreateFormCommandResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAkAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-12-07T22:43:44.275Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
